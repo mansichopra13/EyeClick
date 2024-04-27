@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    font-family: "Roboto Condensed", sans-serif;
+}
+
+.carousel-item img{
+    width: 100%;
+    height: 80vh;
+}
+
+.row img{
+    width:90%;
+    height: 60vh;
+}
+.item img{
+    border: 2px solid whitesmoke;
+}
+.card-img{
+    object-fit: cover; /* or cover depending on your preference */
+    width: 200%;
+    height: 100%;
+}
