@@ -5,7 +5,10 @@
 }
 
 h1{
-    font-family: "Roboto Condensed", sans-serif;
+    font-family: "Merriweather", serif;
+}
+.f{
+    font-family: "Merriweather", serif;
 }
 
 .carousel-item img{
@@ -25,3 +28,8 @@ h1{
     width: 200%;
     height: 100%;
 }
+.h1 {
+    font-family: "Merriweather", serif;
+    font-weight: 300;
+    font-style: normal;
+  }
